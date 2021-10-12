@@ -28,7 +28,7 @@ answer:"prec"
 },{
 question:"which is my stream? ",
 answer:"i.t."
-}
+},
 {
   question:"when is my Birthday? ",
 answer:"21 october"
