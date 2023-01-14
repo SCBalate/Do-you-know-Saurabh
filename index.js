@@ -26,17 +26,21 @@ var questions=[{
   question:"what is my college name? ",
 answer:"prec"
 },{
-question:"which is my stream? ",
+question:"what is my stream ",
 answer:"i.t."
-},
-{
-  question:"when is my Birthday? ",
-answer:"21 october"
-},
-{
-  question:"what is my brother's name? ",
-answer:"siddharth"
-},
+}
+,{
+question:"whats my age ",
+answer:"22"
+}
+,{
+question:"my best friends names ",
+answer:"rushi and shubham"
+}
+,{
+question:"my favourite bike ",
+answer:"hayabusa"
+}
 ];
  for(var i=0;i<questions.length;i++) {
    var currentQuestion=questions[i];
